@@ -1,3 +1,3 @@
 # Hi My name is CN-12 😀
 ## Hi My name is CN-12 (!)
-![codeup](./codeup.png)
+![codeup](./codeup.PNG)
