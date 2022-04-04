@@ -1,4 +1,3 @@
 # Hi My name is CN-12 😀
 # gamdragon2@gmail.com
-![codeup](./codeup220209.PNG)
-http://cn12.pythonanywhere.com/ (기상청)
+https://cn-github.notion.site/CN-12-GITHUB-d3c4eadf3ac14f7da297a98d3ca33216
