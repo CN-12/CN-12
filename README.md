@@ -14,6 +14,6 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p>
-# gamdragon2@gmail.com
+<h4 align="center"> gamdragon2@gmail.com </h4>
 <br>
-<h4 align="center">노션정리 https://cn-github.notion.site/CN-12-GITHUB-d3c4eadf3ac14f7da297a98d3ca33216</h4>
+<h4 align="center"> 노션정리 https://cn-github.notion.site/CN-12-GITHUB-d3c4eadf3ac14f7da297a98d3ca33216 </h4>
