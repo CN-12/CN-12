@@ -18,3 +18,4 @@
 # gamdragon2@gmail.com
 
 <h4 align="center"> 노션정리 https://cn-github.notion.site/CN-12-GITHUB-d3c4eadf3ac14f7da297a98d3ca33216 </h4>
+<h4 align="center">  https://blog.naver.com/gamdragon2 </h4>
